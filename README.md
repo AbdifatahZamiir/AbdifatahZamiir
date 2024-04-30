@@ -6,8 +6,8 @@
 ![](https://github-readme-stats-olive-nine-17.vercel.app/api?username=AbdifatahZamiir&show_icons=true&theme=dark&bg_color=00000000)
 
 ### Connect with me:
-
-<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="" width="94" height="28" aria-hidden="true"></a>
+[![linkedIn](/assets/linkedin.svg)](https://www.linkedin.com/in/abdifatah-samiir-4482542b1)
+[![Twitter](/assets/x.svg)]([https://www.linkedin.com/in/abdifatah-samiir-4482542b1](https://twitter.com/abdifatah_Samir))
 
 ### Languages and Tools:
 
