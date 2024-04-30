@@ -6,11 +6,11 @@
 ![](https://github-readme-stats-olive-nine-17.vercel.app/api?username=AbdifatahZamiir&show_icons=true&theme=dark&bg_color=00000000)
 
 ### Connect with me:
-[![linkedIn](/assets/linkedin-light.svg)](https://www.linkedin.com/in/abdifatah-samiir-4482542b1#gh-light-mode-only)
-[![linkedIn](/assets/linkedin-dark.svg)](https://www.linkedin.com/in/abdifatah-samiir-4482542b1#gh-dark-mode-only)
+[![linkedIn](./assets/linkedin-light.svg)](https://www.linkedin.com/in/abdifatah-samiir-4482542b1#gh-light-mode-only)
+[![linkedIn](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/abdifatah-samiir-4482542b1#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Twitter](/assets/twitter-light.svg)]([https://www.linkedin.com/in/abdifatah-samiir-4482542b1](https://twitter.com/abdifatah_Samir))
-[![Twitter](/assets/twitter-dark.svg)]([https://www.linkedin.com/in/abdifatah-samiir-4482542b1](https://twitter.com/abdifatah_Samir))
+[![Twitter](./assets/twitter-light.svg)]([https://www.linkedin.com/in/abdifatah-samiir-4482542b1](https://twitter.com/abdifatah_Samir#gh-light-mode-only))
+[![Twitter](./assets/twitter-dark.svg)]([https://www.linkedin.com/in/abdifatah-samiir-4482542b1](https://twitter.com/abdifatah_Samir#gh-light-mode-only))
 
 ### Languages and Tools:
 
