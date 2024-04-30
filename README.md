@@ -17,3 +17,6 @@
 <img align="left" alt="React" width="26px" src="/assets/react.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="/assets/node.svg" style="padding-right:10px;" />
 <img align="left" alt=".NET Core" width="26px" src="/assets/dotnetcore.png" />
+<img align="left" alt="Git" width="26px" src="/assets/git.svg" />
+<img align="left" alt="Terminal" width="26px" src="/assets/terminal.png" />
+
