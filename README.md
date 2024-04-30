@@ -8,7 +8,7 @@
 ### Connect with me:
 [![website](./assets/linkedin.svg)](https://www.linkedin.com/in/abdifatah-samiir-4482542b1)
 &nbsp;&nbsp;
-[![website](./assets/twitter.svg)]([https://twitter.com/abdifatah_Samir)
+[![website](./assets/twitter.svg)](https://twitter.com/abdifatah_Samir)
 
 ### Languages and Tools:
 
