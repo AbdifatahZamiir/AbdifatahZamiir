@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-![<img align="left" alt="LinkedIn" width="26px" src="/assets/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/abdifatah-samiir-4482542b1/)
-![<img align="left" alt="LinkedIn" width="26px" src="/assets/x.svg" style="padding-right:10px;" />](https://twitter.com/abdifatah_Samir)
+<img align="left" alt="LinkedIn" width="26px" src="/assets/linkedin.svg" style="padding-right:10px;" />(https://www.linkedin.com/in/abdifatah-samiir-4482542b1/)
+<img align="left" alt="LinkedIn" width="26px" src="/assets/x.svg" style="padding-right:10px;" />(https://twitter.com/abdifatah_Samir)
 
 ### Languages and Tools:
 
