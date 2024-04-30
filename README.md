@@ -10,6 +10,13 @@
 ### Languages and Tools:
 
 <code><img height="27" src="/assets/javascript.svg" alt="javascript"></code>
+<code><img height="27" src="/assets/typescript.svg" alt="javascript"></code>
+<code><img height="27" src="/assets/react.svg" alt="javascript"></code>
+<code><img height="27" src="/assets/node.svg" alt="javascript"></code>
+<code><img height="27" src="/assets/dotnetcore.png" alt="javascript"></code>
+<code><img height="27" src="/assets/git.svg" alt="javascript"></code>
+<code><img height="27" src="/assets/terminal.png" alt="javascript"></code>
+
 
 <code><img align="left" alt="JavaScript" width="26px" src="/assets/javascript.svg" style="padding-right:10px;" /></code>
 <img align="left" alt="TypeScript" width="26px" src="/assets/typescript.svg" style="padding-right:10px;" />
