@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="94" height="28" aria-hidden="true"></a>
 
 ### Languages and Tools:
 
