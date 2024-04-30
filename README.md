@@ -9,7 +9,7 @@
 
 ### Languages and Tools:
 
-<code><img align="left" alt="JavaScript" width="26px" height="77px" src="/assets/javascript.svg" style="padding-right:10px;" /></code>
+<code><img align="left" alt="JavaScript" height="27px" src="/assets/javascript.svg" style="padding-right:10px;" /></code>
 
 <code><img align="left" alt="JavaScript" width="26px" src="/assets/javascript.svg" style="padding-right:10px;" /></code>
 <img align="left" alt="TypeScript" width="26px" src="/assets/typescript.svg" style="padding-right:10px;" />
