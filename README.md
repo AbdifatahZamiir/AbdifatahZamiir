@@ -6,9 +6,8 @@
 ![](https://github-readme-stats-olive-nine-17.vercel.app/api?username=AbdifatahZamiir&show_icons=true&theme=dark&bg_color=00000000)
 
 ### Connect with me:
-
-<img align="left" alt="LinkedIn" width="26px" src="/assets/linkedin.svg" style="padding-right:10px;" />(https://www.linkedin.com/in/abdifatah-samiir-4482542b1/)
-<img align="left" alt="LinkedIn" width="26px" src="/assets/x.svg" style="padding-right:10px;" />(https://twitter.com/abdifatah_Samir)
+[![linkedIn](/assets/linkedin.svg)](https://www.linkedin.com/in/abdifatah-samiir-4482542b1)
+[![Twitter](/assets/x.svg)]([https://www.linkedin.com/in/abdifatah-samiir-4482542b1](https://twitter.com/abdifatah_Samir))
 
 ### Languages and Tools:
 
