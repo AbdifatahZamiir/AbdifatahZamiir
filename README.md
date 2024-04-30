@@ -1,4 +1,4 @@
-# Hey, I'm [Abdi!](https://github.com/AbdifatahZamiir/)👋
+# Hey 👋, I'm [Abdi!](https://github.com/AbdifatahZamiir/)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/abdifatah_Samir)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abdifatah-samiir-4482542b1)
