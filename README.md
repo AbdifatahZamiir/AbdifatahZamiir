@@ -17,12 +17,3 @@
 <code><img height="27" src="/assets/git.svg" alt="javascript"></code>
 <code><img height="27" src="/assets/terminal.png" alt="javascript"></code>
 
-
-<code><img align="left" alt="JavaScript" width="26px" src="/assets/javascript.svg" style="padding-right:10px;" /></code>
-<img align="left" alt="TypeScript" width="26px" src="/assets/typescript.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="/assets/react.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="/assets/node.svg" style="padding-right:10px;" />
-<img align="left" alt=".NET Core" width="26px" src="/assets/dotnetcore.png" />
-<img align="left" alt="Git" width="26px" src="/assets/git.svg" />
-<img align="left" alt="Terminal" width="26px" src="/assets/terminal.png" />
-
