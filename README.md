@@ -1,16 +1,11 @@
 # Hey, I'm Abdifatah! 👋
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/abdifatah_Samir)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abdifatah-samiir-4482542b1)
+
 ### I'm a Fullstack Developer at [SLMOF 🚀](https://slmof.org/)
 
-
 ![](https://github-readme-stats-olive-nine-17.vercel.app/api?username=AbdifatahZamiir&show_icons=true&theme=dark&bg_color=00000000)
-
-
-### Connect with me:
-[![website](./assets/linkedin.svg)](https://www.linkedin.com/in/abdifatah-samiir-4482542b1)
-&nbsp;&nbsp;
-[![website](./assets/twitter.svg)](https://twitter.com/abdifatah_Samir)
 
 ### Languages and Tools:
 
