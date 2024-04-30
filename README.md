@@ -3,7 +3,9 @@
 ### I'm a Fullstack Developer at [SLMOF 🚀](https://slmof.org/)
 
 
-![](https://github-readme-stats-olive-nine-17.vercel.app/api?username=AbdifatahZamiir&show_icons=true&theme=dark&bg_color=00000000)
+![](https://github-readme-stats-olive-nine-17.vercel.app/api?username=AbdifatahZamiir&show_icons=true&theme=dark&bg_color=00000000#gh-dark-mode-color)
+![](https://github-readme-stats-olive-nine-17.vercel.app/api?username=AbdifatahZamiir&show_icons=true&theme=radical#gh-dark-mode-color)
+
 
 ### Connect with me:
 [![website](./assets/linkedin.svg)](https://www.linkedin.com/in/abdifatah-samiir-4482542b1)
