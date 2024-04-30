@@ -9,8 +9,8 @@
 [![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/abdifatah-samiir-4482542b1#gh-light-mode-only)
 [![website](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/abdifatah-samiir-4482542b1#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./assets/twitter-light.svg)]([https://twitter.com/abdifatah_Samir#gh-light-mode-only))
-[![website](./assets/twitter-dark.svg)]([https://twitter.com/abdifatah_Samir#gh-dark-mode-only))
+[![website](./assets/twitter-light.svg)]([https://twitter.com/abdifatah_Samir#gh-light-mode-only)
+[![website](./assets/twitter-dark.svg)]([https://twitter.com/abdifatah_Samir#gh-dark-mode-only)
 
 ### Languages and Tools:
 
